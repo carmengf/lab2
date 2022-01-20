@@ -1,2 +1,2 @@
-# lab4
+# lab2
 Laboratorio 4 HPC-Bio
